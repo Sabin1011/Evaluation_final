@@ -1,6 +1,3 @@
-public class Main {
-  public static void main(String[] args) {
-    String dob = "01/01/2000";
-    System.out.println("My date of birth is " + dob);
+public class Main {111111111111111111    System.out.println("My date of birth is " + dob);
   }
 }
